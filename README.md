@@ -21,7 +21,7 @@ This is the content that I want to type as plain text
 >This is a blockquote
 >> This an indented blockquote, a blockquote in a blockquote
 
-
+<span style="color:blue;">this text should be blue</span>
 
 
 ### Project 2
