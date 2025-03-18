@@ -23,8 +23,11 @@ This is the content that I want to type as plain text
 
 <span style="color:blue;">this text should be blue</span>
 
-<span style="font-family: 'Lucida Console';">
-# **Typeface is Lucinda and should be in heading 1 style**</span>
+<span style="font-family: 'Lucida Console';">**Typeface is Lucinda and should be in bold style**</span>
+
+<span style="font-family: 'Lucida Console';"># Typeface is Lucinda and should be in heading 1 #</span>
+
+<span style="font-family: 'Lucida Console';">Typeface is Lucinda</span>
 
 ### Project 2
 - Description
