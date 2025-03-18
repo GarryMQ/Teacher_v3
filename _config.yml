@@ -2,6 +2,5 @@ title: Teacher AI
 logo: image/assets/2025_GenAI_2hr_AdobeStock_1109594648.jpeg
 description: This is what it is about
 #show_downloads:true
-remote_theme: pages-themes/leap-day@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+theme: jekyll-theme-tactile
+
