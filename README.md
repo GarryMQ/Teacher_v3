@@ -17,3 +17,7 @@ This is the youtube clip that this page was developed from (www.youtube.com/watc
 # Work History
 - Workplace 1
 - Workplace 2
+
+![tesst image1](image/assets/2025_GenAI_2hr_AdobeStock_1109594648.jpeg)
+
+<img src"./image/assets/2025_GenAI_2hr_AdobeStock_1109594648.jpeg" width=600 height=300>
