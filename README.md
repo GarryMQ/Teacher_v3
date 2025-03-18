@@ -23,6 +23,7 @@ This is the content that I want to type as plain text
 
 <span style="color:blue;">this text should be blue</span>
 
+<span style="font-family: 'Lucida Console';">**Lucinda**</span>
 
 ### Project 2
 - Description
